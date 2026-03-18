@@ -85,7 +85,7 @@ export default function App() {
           <div style={{ display: "flex", gap: 24, alignItems: "center" }}>
             <a href="#chapters" style={{ color: "rgba(255,255,255,0.7)", textDecoration: "none", fontSize: 13, fontWeight: 500 }}>Články</a>
             <a href="#about" style={{ color: "rgba(255,255,255,0.7)", textDecoration: "none", fontSize: 13, fontWeight: 500 }}>O smernici</a>
-            <div style={{ padding: "6px 16px", borderRadius: 6, background: "#c8a84b", color: "#0c1f3f", fontSize: 12, fontWeight: 700, cursor: "pointer", letterSpacing: 0.5 }}>Stiahnuť DOCX</div>
+            <a href="/Smernica_OVM_401_2023_v3_0_complete.docx" download style={{ padding: "6px 16px", borderRadius: 6, background: "#c8a84b", color: "#0c1f3f", fontSize: 12, fontWeight: 700, cursor: "pointer", letterSpacing: 0.5, textDecoration: "none" }}>Stiahnuť DOCX</a>
           </div>
         </div>
       </nav>
