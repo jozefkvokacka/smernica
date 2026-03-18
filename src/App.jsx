@@ -76,7 +76,7 @@ export default function App() {
       }}>
         <div style={{ maxWidth: 1200, margin: "0 auto", padding: "0 32px", display: "flex", alignItems: "center", justifyContent: "space-between" }}>
           <div style={{ display: "flex", alignItems: "center", gap: 14 }}>
-            <img src="/logo.png" alt="GTY logo" style={{ width: 36, height: 36, borderRadius: 6, objectFit: "cover" }} />
+           <img src="/logo.jpg" alt="GTY logo" style={{ width: 36, height: 36, borderRadius: 6, objectFit: "cover" }} />
             <div>
               <div style={{ color: "#fff", fontWeight: 700, fontSize: 15, letterSpacing: 0.5, lineHeight: 1.2 }}>smernica.gty.sk</div>
               <div style={{ color: "#c8a84b", fontSize: 10, fontWeight: 500, letterSpacing: 2, textTransform: "uppercase" }}>Vyhláška 401/2023 Z. z.</div>
@@ -282,7 +282,7 @@ export default function App() {
         <div style={{ maxWidth: 1200, margin: "0 auto", display: "flex", justifyContent: "space-between", alignItems: "center", flexWrap: "wrap", gap: 20 }}>
           <div>
             <div style={{ display: "flex", alignItems: "center", gap: 10, marginBottom: 8 }}>
-             <img src="/logo.png" alt="GTY logo" style={{ width: 28, height: 28, borderRadius: 4, objectFit: "cover" }} />
+           <img src="/logo.jpg" alt="GTY logo" style={{ width: 28, height: 28, borderRadius: 4, objectFit: "cover" }} />
               <span style={{ color: "#fff", fontWeight: 700, fontSize: 14 }}>GTY.sk</span>
               <span style={{ color: "rgba(255,255,255,0.3)", fontSize: 12 }}>Infrastructure Project Management</span>
             </div>
